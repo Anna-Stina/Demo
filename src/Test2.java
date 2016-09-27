@@ -1,6 +1,6 @@
 
 public class Test2 {
-	int a = 5;
+	int a = 6;
 	//kommentaar
 
 }
